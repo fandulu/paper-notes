@@ -7,5 +7,4 @@ Gaussian centered in each of the extreme points. The CNN
 learns to transform this information into a segmentation of
 an object that matches those extreme points.
 
-![Deep Extreme Cut]
-(https://github.com/fandulu/paper-notes/blob/master/images/Deep%20Extreme%20Cut.png)
+![Deep Extreme Cut](https://github.com/fandulu/paper-notes/blob/master/images/Deep%20Extreme%20Cut.png)
