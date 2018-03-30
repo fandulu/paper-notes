@@ -1,4 +1,6 @@
-Abstract: This paper explores the use of extreme points in an object
+# Abstract: 
+
+This paper explores the use of extreme points in an object
 (left-most, right-most, top, bottom pixels) as input to obtain
 precise object segmentation for images and videos. We do
 so by adding an extra channel to the image in the input of
