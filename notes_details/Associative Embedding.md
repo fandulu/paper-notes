@@ -12,3 +12,10 @@ group assignments...'
 
 
 ![associative embedding](https://github.com/fandulu/paper-notes/blob/master/images/Associative%20Embedding.png)
+
+How the loss works:
+Sum up all heatmaps of the same person, get the mean. 
+The first loss is to compare the heatmap of the same person, it gets loss when the joint is mis-estimated.
+The second loss is to compare the heatmap of different people, it get loss when different people share the same joint.
+In such manner, we do not need to specify the tag id.
+
