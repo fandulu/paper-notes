@@ -9,4 +9,4 @@ use a novel combination of temporal convolutions and soft attention; the former 
 aggregate information from past experience and the latter to pinpoint specific pieces
 of information. 
 
-![attentive meta learner](https://github.com/fandulu/paper-notes)
+![attentive meta learner](https://github.com/fandulu/paper-notes/blob/master/images/attentive_meta_learner.png)
