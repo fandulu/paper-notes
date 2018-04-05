@@ -16,3 +16,5 @@
 # Meta Learning
 
 [An introduction to Meta-learning](https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a)
+
+[attentive meta-learner](https://github.com/fandulu/paper-notes/blob/master/notes_details/ATTENTIVE%20META-LEARNER.md)
